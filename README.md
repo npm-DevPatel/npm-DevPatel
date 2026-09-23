@@ -11,6 +11,7 @@ I care about **accessible, practical software** that real people can actually us
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-devpatel.7150%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpatel.7150@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/npm-devpatel/)
 [![GitHub](https://img.shields.io/badge/GitHub-npm--DevPatel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/npm-DevPatel)
 
 </div>
@@ -91,7 +92,7 @@ I care about **accessible, practical software** that real people can actually us
 
 <div align="center">
 
-**📫 Let's connect:** [devpatel.7150@gmail.com](mailto:devpatel.7150@gmail.com)
+**📫 Let's connect:** [devpatel.7150@gmail.com](mailto:devpatel.7150@gmail.com) | [LinkedIn](https://www.linkedin.com/in/npm-devpatel/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=100&section=footer" alt="footer" />
 
