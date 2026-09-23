@@ -58,8 +58,8 @@ I care about **accessible, practical software** that real people can actually us
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npm-DevPatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=58A6FF" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npm-DevPatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=npm-DevPatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=58A6FF" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=npm-DevPatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" width="48%" />
 </div>
 
 <br/>
