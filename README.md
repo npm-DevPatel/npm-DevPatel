@@ -20,9 +20,9 @@ I care about **accessible, practical software** that real people can actually us
 ## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,express,firebase,java,javascript,python,docker,git,github,vscode&theme=dark" alt="Tech stack icons" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,express,firebase,java,python,docker,git,github,vscode&theme=dark&perline=8" alt="Tech stack icons" />
+  </a>
 </div>
 
 ---
@@ -55,13 +55,27 @@ I care about **accessible, practical software** that real people can actually us
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=npm-DevPatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=58A6FF" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npm-DevPatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" width="48%" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=npm-DevPatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npm-DevPatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npm-DevPatel&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/npm-DevPatel/npm-DevPatel/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/npm-DevPatel/npm-DevPatel/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/npm-DevPatel/npm-DevPatel/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
