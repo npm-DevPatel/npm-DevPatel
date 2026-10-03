@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Dev+Patel+%F0%9F%91%8B;Backend-leaning+Full-Stack+Developer;Building+things+that+solve+real+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Dev+Patel+%F0%9F%91%8B;Backend+and+full-stack+developer;Building+software+with+real-world+impact" alt="Typing introduction" />
 
 <br/>
 
@@ -30,12 +30,16 @@ I care about **accessible, practical software** that real people can actually us
 
 ## 🚀 Featured Projects
 
+### 🧪 [VirtuLab Kenya](https://github.com/npm-DevPatel/VirtuLab-Kenya) · [Live Demo](https://virtu-lab-kenya.vercel.app)
+**Browser-based virtual science practicals for Kenyan secondary school students.** Provides twelve KCSE-aligned Chemistry, Physics, and Biology experiments without requiring physical lab equipment.
+<br/>`Next.js` `JavaScript` `Firebase` `Vanilla CSS` `Vercel`
+
 ### 📄 [DocuClear](https://github.com/npm-DevPatel/DocuClear) · [Live Demo](https://docu-clear.vercel.app)
-**AI-powered document simplifier (PWA).** Turns dense legal, medical, and government paperwork into plain language, flags deadlines and hidden risks, translates summaries to Kiswahili, and reads them aloud. Built with accessibility first: high-contrast mode, scalable text, large touch targets.
+**AI-powered document simplifier (PWA).** Turns dense legal, medical, and government paperwork into plain language, flags deadlines and hidden risks, translates summaries to Kiswahili, and reads them aloud.
 <br/>`React` `Vite` `Tailwind` `Gemini API` `Tesseract.js` `Firebase` `PWA`
 
 ### 🏫 [Campus Life](https://github.com/npm-DevPatel/campus-life-website) · [Live Demo](https://npm-devpatel.github.io/campus-life-website/#home)
-**Full-stack campus management app** for USIU-Africa: events, student clubs with join-request workflows, room booking with conflict prevention, and a helpdesk. Vanilla JS architecture with a service layer, hash routing, Firebase Auth + Firestore, Lighthouse accessibility score of 95-100, and Docker support.
+**Full-stack campus management app** for USIU-Africa: events, student clubs with join-request workflows, room booking with conflict prevention, and a helpdesk. Vanilla JS architecture with a service worker for offline support.
 <br/>`JavaScript (ES6+)` `Firebase` `Docker` `WCAG`
 
 ### 🅿️ [ParkFinder](https://github.com/shadrackbond/ParkFinder)
