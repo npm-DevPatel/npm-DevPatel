@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Dev Patel profile banner image" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I%E2%80%99m+Dev+Patel+%F0%9F%91%8B;Full-Stack+Developer+in+the+making+%F0%9F%92%BB;Building+practical+software+with+real-world+impact+%F0%9F%8C%8D" alt="Animated introduction text: Hey, I’m Dev Patel 👋, Full-Stack Developer in the making 💻, Building practical software with real-world impact 🌍." />
 </p>
 
 <div align="center">
-
-<img src="https://wallpaperaccess.com/full/369002.jpg" alt="Typing introduction" />
 
 <br/>
 
