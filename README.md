@@ -32,6 +32,10 @@ I care about **accessible, practical software** that real people can actually us
 
 ## 🚀 Featured Projects
 
+### 💎 [Vespera Jewellery](https://github.com/npm-DevPatel/vespera-jewellery) · [Live Demo](https://vespera-jewellery-two.vercel.app)
+**Full-stack, SEO-first jewellery e-commerce storefront** built with Nuxt 3, Vue 3, TypeScript, Tailwind CSS, and Supabase.
+<br/>`Nuxt 3` `Vue 3` `TypeScript` `Tailwind CSS` `Supabase`
+
 ### 🧪 [VirtuLab Kenya](https://github.com/npm-DevPatel/VirtuLab-Kenya) · [Live Demo](https://virtu-lab-kenya.vercel.app)
 **Browser-based virtual science practicals for Kenyan secondary school students.** Provides twelve KCSE-aligned Chemistry, Physics, and Biology experiments without requiring physical lab equipment.
 <br/>`Next.js` `JavaScript` `Firebase` `Vanilla CSS` `Vercel`
