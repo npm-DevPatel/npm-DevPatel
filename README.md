@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I%E2%80%99m+Dev+Patel+%F0%9F%91%8B;Full-Stack+Developer+in+the+making+%F0%9F%92%BB;Building+practical+software+for+real-world+impact+%F0%9F%8C%8D" alt="Animated introduction text: Hey, I’m Dev Patel 👋, Full-Stack Developer in the making 💻, Building practical software for real world impact." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I%E2%80%99m+Dev+Patel+%F0%9F%91%8B;Full-Stack+Developer+in+the+making+%F0%9F%92%BB;Building+practical+software+for+real-world+impact+%F0%9F%8C%8D" alt="Animated introduction text: Hey, I’m Dev Patel 👋, Full-Stack Developer in the making 💻, Building practical software for real world impact." />
 </p>
 
 <div align="center">
